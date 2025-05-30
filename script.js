@@ -34,8 +34,8 @@ const soal = [
 "Skema penjalaran impuls gerak refleks yang benar adalah:|impuls-reseptor-saraf sensoris-otak-saraf motoris-efektor/otot|impuls-reseptor-otak-saraf sensoris-saraf motoris-efektor/otot|impuls-reseptor-saraf sensoris-medulla spinalis-saraf motoris-efektor/otot|reseptor-impuls-saraf sensoris-otak-saraf motoris-efektor/otot|reseptor-impuls-saraf sensoris-saraf motoris-otak tengah-efektor/otot|impuls-reseptor-saraf sensoris-medulla spinalis-saraf motoris-efektor/otot",
 "Lapisan terdalam yang halus dan tipis, mengandung banyak pembuluh darah serta melekat pada otak atau medulla spinalis adalah:|Piamater|Arachnoid|Duramater|Cerebrum|Cortex Cerebral|Piamater",
 "Lapisan tengah yang mengandung sedikit pembuluh darah dan memiliki ruang yang berisi cairan cerebrospinalis adalah:|Piamater|Arachnoid|Duramater|Meningens|Cortex cerebral|Arachnoid",
-"Mengendalikan frekuensi denyut jantung, tekanan darah, pernapasan, gerakan alat pencernaan makanan, menelan, muntah, sekresi kelenjar pencernaan makanan serta mengatur gerak refleks seperti bersin, batuk dan berkedip, merupakan fungsi dari..... yang terdapat di nomor:|Hypofisis, 1|Hypothalamus, 2|Cerebellum, 5|Pons, 6|Medulla Oblongata, 7|Medulla Oblongata, 7",
-"Berfungsi sebagai jalur penghantar dan pusat refleks serta meneruskan informasi penglihatan dan pendengaran adalah... terdapat di nomor|Mesencephalon, 2|Mesencephalon, 3|Mesencephalon, 4|Cerebellum, 5|Pons, 6|Mesencephalon, 3",
+"Mengendalikan frekuensi denyut jantung, tekanan darah, pernapasan, gerakan alat pencernaan makanan, menelan, muntah, sekresi kelenjar pencernaan makanan serta mengatur gerak refleks seperti bersin, batuk dan berkedip, merupakan fungsi dari.....|Hypofisis|Hypothalamus|Cerebellum|Pons|Medulla Oblongata|Medulla Oblongata",
+"Berfungsi sebagai jalur penghantar dan pusat refleks serta meneruskan informasi penglihatan dan pendengaran adalah... terdapat di nomor|Mesencephalon|Mesencephalon|Mesencephalon|Cerebellum|Pons|Mesencephalon",
 
 "Sistem saraf cranialis yang termasuk jenis neuron sensoris adalah|CN II, VI, dan X|CN I, III, dan V|CN II, IV, dan VI|CN VIII, X, dan XII|CN I, II, dan VIII|CN I, II, dan VIII",
 
