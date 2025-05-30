@@ -75,7 +75,7 @@ const soal = [
 
 "Berdasarkan sifat pengaruhnya terhadap sistem koordinasi, NAPZA dibagi menjadi tiga golongan yaitu stimulan, depresan, dan halusinogen. Senyawa di bawah ini yang termasuk golongan depresan adalah|Kafein, Amfetamin, Opiat|Kafein, Alkohol, Kokain|Ganja, Alkohol, Barbiturat|Kokain, Ganja, Alkohol|Barbiturat, Ekstasi, Ganja|Ganja, Alkohol, Barbiturat",
 
-"Berdasarkan sifat pengaruhnya terhadap sistem koordinasi, NAPZA dibagi menjadi tiga golongan yaitu stimulan, depresan, dan halusinogen. Senyawa di bawah ini yang termasuk golongan stimulan adalah|Kafein, Amfetamin, Opiat|Kafein, Alkohol, Kokain|Ganja, Alkohol, Barbiturat|Kokain, Ganja, Alkohol|Barbiturat, Ekstasi, Ganja|Kafein, Amfetamin, Opiat",
+"Berdasarkan sifat pengaruhnya terhadap sistem koordinasi, NAPZA dibagi menjadi tiga golongan yaitu stimulan, depresan, dan halusinogen. Senyawa di bawah ini yang termasuk golongan stimulan adalah|Kafein, Amfetamin, Opiat|Kafein, Alkohol, Kokain|Ganja, Alkohol, Barbiturat|Kokain, Ganja, Alkohol|Barbiturat, Ekstasi, Ganja|Kafein, Alkohol, Kokain",
 
 "Semua nefron terdapat di bagian|Medulla renalis|Korteks renalis|Pelvis renalis|Vesica urinaria|Ureter|Korteks renalis",
 
