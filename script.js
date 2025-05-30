@@ -1,7 +1,7 @@
 const soal = [
 "Cekungan pada sisi medial yang membentuk bukaan pada ginjal sebagai tempat keluar masuknya pembuluh darah dan keluarnya ureter:|Hilus|Lobus ginjal|Sinus ginjal|Korteks|Nefron|Hilus",
 "Komponen vaskuler pada nefron terdiri dari, kecuali:|Arteriola afferent|Arteriola efferent|Lengkung henle|Glomerulus|Kapiler Peritubuler|Lengkung henle",
-"Yang merupakan rongga perluasan ujung proksimal (bagian atas) ureter adalah:|Sinus renalis|Parenkim renalis|Pelvis renalis|Medula Renalis|Hilum renalis|Pelvus renalis",
+"Yang merupakan rongga perluasan ujung proksimal (bagian atas) ureter adalah:|Sinus renalis|Parenkim renalis|Pelvis renalis|Medula Renalis|Hilum renalis|Pelvis renalis",
 "Proses penyaringan plasma bebas protein melalui kapiler glomerulus ke dalam kapsul Bowman disebut:|Transpor transepital|Reabsorpsi tubulus|Filtrasi glomerulus|Augmentasi|Sekresi tubulus|Filtrasi glomerulus",
 "Transpor aktif yang memindahkan zat-zat tertentu dari darah dalam kapiler peritubular, keluar melewati sel-sel tubuler menuju ke cairan tubuler dan masuk ke urine disebut:|Reabsorpsi tubulus|Transpor transepital|Filtrasi glomerulus|Sekresi tubulus|Membran glomerulus|Sekresi tubulus",
 "Supaya dapat direabsorpsi, bahan harus melewati lima penyaring terpisah yang disebut:|Transpor aktif|Transpor pasif|Transpor transepitel|Transpor kapiler|Transpor vaskuler|Transpor transepitel",
