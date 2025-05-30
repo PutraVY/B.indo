@@ -122,7 +122,6 @@ const soal = [
 "Urutan penghantaran impuls saraf pada gerak sadar berturut-turut melalui|reseptor-aferen-otak-eferen-efektor|reseptor-eferen-otak-aferen-efektor|efektor-aferen-sumsum tulang belakang-eferen-reseptor|efektor-eferen-otak-aferen-reseptor|sumsum tulang belakang-aferen-reseptor-eferen-efektor|reseptor-aferen-otak-eferen-efektor",
 "Lapisan terluar pelindung otak yang tebal dan kuat, terdiri atas 2 lapisan serta melekat pada permukaan dalam cranium yaitu|Duramater|Piamater|Arachnoid|Pleura|Pericardium|Duramater",
 "Pengaturan untuk keseimbangan, kontrol gerakan mata, meningkatkan tonus otot, serta koordinasi gerakan sadar yang berkaitan dengan ketrampilan berpusat di bagian otak|Thalamus|Hypothalamus|Cerebellum|Pons varolli|Medulla oblongata|Cerebellum",
-"Saraf cranialis yang berfungsi sebagai saraf sensoris adalah saraf nomor|I, II, V|III, IV, VI|V, VI, VII|I, II, VIII|III, IV, VI|I, II, VIII",
 "Fungsi saraf parasimpatis pada organ dibawah ini yang benar adalah, kecuali|Memperbesar pupil|Kontraksi kandung kemih|Merangsang ereksi|Memperlambat detak jantung|Dilatasi diameter arteri|Memperbesar pupil",
 "Gangguan koordinasi gerak otot berupa cara berjalan yang kaku dengan gerak salah satu kaki melebar, kurang keseimbangan, tremor pada tangan dan bagian tubuh lainnya disebut|Parkinson|Encephalitis|Meningitis|Ataksia|Hidrocephalus|Parkinson",
 "Sindrom kematian sel-sel otak secara bersamaan sehingga otak tampak mengecil dan kemampuan daya ingat berkurang dan sering diderita oleh orang berusia 65 tahun ke atas yaitu|Epilepsi|Meningitis|Alzheimer|Ataksia|Parkinson|Alzheimer",
@@ -137,7 +136,6 @@ const soal = [
 "Urutan penghantaran impuls saraf pada gerak refleks berturut-turut melalui|reseptor-aferen-sumsum tulang belakang-eferen-efektor|reseptor-eferen-sumsum tulang belakang-aferen-efektor|efektor-aferen-sumsum tulang belakang-eferen-reseptor|efektor-eferen-sumsum tulang belakang-aferen-reseptor|sumsum tulang belakang-aferen-reseptor-eferen-efektor|reseptor-aferen-sumsum tulang belakang-eferen-efektor",
 "Lapisan terdalam pelindung otak yang halus dan tipis, banyak mengandung pembuluh darah, serta melekat pada otak atau medulla spinalis yaitu|Duramater|Piamater|Arachnoid|Pleura|Pericardium|Piamater",
 "Pengaturan suhu tubuh, rasa haus, lapar, dan kenyang berpusat di bagian otak|Thalamus|Hypothalamus|Cerebellum|Pons varolli|Medulla oblongata|Hypothalamus",
-"Saraf cranialis yang berfungsi sebagai saraf motoris adalah saraf nomor|I, II, V, IX, XI|III, IV, VIII, X, XII|V, VI, VII, IX, XI|I, II, III, IV, V|III, IV, VI, XI, XII|III, IV, VI, XI, XII",
 "Fungsi saraf simpatis pada organ dibawah ini yang benar adalah, kecuali|Memperbesar pupil|Relaksasi kandung kemih|Menghambat kerja lambung|Mempercepat detak jantung|Dilatasi diameter arteri|Dilatasi diameter arteri",
 "Penyakit Parkinson disebabkan otak kekurangan dopamin sehingga kontraksi otot tak terkendali. Hal ini terjadi karena|Kerja asetilkolin tak terhambat|Adanya kerusakan neuron|Adanya kerusakan sel-sel otot|Kehilangan ingatan|Jaringan otak mengalami peradangan|Kerja asetilkolin tak terhambat",
 "Bakteri penyebab Meningitis adalah|Neisseria gonorrhoeae|Mycobacterium bovis|Haemophilus influenza|Clostridium tetani|Pasteurella pestis|Haemophilus influenza",
@@ -156,7 +154,7 @@ const soal = [
 let currentQuestionIndex = 0;
 let score = 0;
 let timer;
-let timeLeft = 1800;
+let timeLeft = 3600;
 let shuffledQuestions = [];
 let currentQuestionData = {};
 
