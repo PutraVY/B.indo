@@ -47,7 +47,7 @@ const soal = [
 
 "Di bawah ini merupakan contoh kerja saraf simpatis, kecuali|Memperbesar pupil mata|Mempercepat detak jantung|Menurunkan tekanan darah|Mempersempit diameter pembuluh darah|Memperkecil pupil mata|Memperkecil pupil mata",
 
-"Di bawah ini merupakan contoh kerja saraf parasimpatis, kecuali|Mempercepat sekresi air ludah|Menyempitkan saluran napas|Menegangkan otot rahim|Meregangkan otot rahim|Memperlambat denyut jantung|Menegangkan otot rahim",
+"Di bawah ini merupakan contoh kerja saraf parasimpatis, kecuali|Mempercepat sekresi air ludah|Menyempitkan saluran napas|Menegangkan otot rahim|Meregangkan otot rahim|Memperlambat denyut jantung|Meregangkan otot rahim",
 
 "Sistem saraf autonom yang berfungsi menghambat kontraksi kandung kemih adalah|Saraf cranialis|Saraf spinalis|Saraf afferent|Saraf simpatis|Saraf parasimpatis|Saraf simpatis",
 
