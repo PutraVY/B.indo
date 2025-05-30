@@ -36,89 +36,47 @@ const soal = [
 "Lapisan tengah yang mengandung sedikit pembuluh darah dan memiliki ruang yang berisi cairan cerebrospinalis adalah:|Piamater|Arachnoid|Duramater|Meningens|Cortex cerebral|Arachnoid",
 "Mengendalikan frekuensi denyut jantung, tekanan darah, pernapasan, gerakan alat pencernaan makanan, menelan, muntah, sekresi kelenjar pencernaan makanan serta mengatur gerak refleks seperti bersin, batuk dan berkedip, merupakan fungsi dari.....|Hypofisis|Hypothalamus|Cerebellum|Pons|Medulla Oblongata|Medulla Oblongata",
 "Berfungsi sebagai jalur penghantar dan pusat refleks serta meneruskan informasi penglihatan dan pendengaran adalah... terdapat di nomor|Mesencephalon|Mesencephalon|Mesencephalon|Cerebellum|Pons|Mesencephalon",
-
 "Sistem saraf cranialis yang termasuk jenis neuron sensoris adalah|CN II, VI, dan X|CN I, III, dan V|CN II, IV, dan VI|CN VIII, X, dan XII|CN I, II, dan VIII|CN I, II, dan VIII",
-
 "Neuron motoris yang membawa impuls dari pons ke otot ekspresi wajah, kelenjar air mata, dan kelenjar saliva. Sedangkan neuron sensoris membawa informasi dari wajah, rongga nasal, dan rongga oral merupakan fungsi dari|CN V dan VII|CN IV dan VII|CN VII dan V|CN VI dan IX|CN X dan XII|CN VII dan V",
-
 "Menyampaikan informasi indra pendengaran ke thalamus dan lobus temporal otak adalah fungsi dari|CN II|CN VII|CN VIII|CN X|CN XI|CN VIII",
-
 "Neuron motoris yang membawa impuls dari medulla ke otot lidah sedangkan neuron sensoris membawa informasi dari spinal otot lidah. Hal tersebut merupakan fungsi dari|CN III|CN VII|CN VIII|CN X|CN XII|CN XII",
-
 "Di bawah ini merupakan contoh kerja saraf simpatis, kecuali|Memperbesar pupil mata|Mempercepat detak jantung|Menurunkan tekanan darah|Mempersempit diameter pembuluh darah|Memperkecil pupil mata|Memperkecil pupil mata",
-
 "Di bawah ini merupakan contoh kerja saraf parasimpatis, kecuali|Mempercepat sekresi air ludah|Menyempitkan saluran napas|Menegangkan otot rahim|Meregangkan otot rahim|Memperlambat denyut jantung|Meregangkan otot rahim",
-
 "Sistem saraf autonom yang berfungsi menghambat kontraksi kandung kemih adalah|Saraf cranialis|Saraf spinalis|Saraf afferent|Saraf simpatis|Saraf parasimpatis|Saraf simpatis",
-
 "Gangguan pada sistem saraf sensori yang dapat disebabkan oleh gangguan metabolisme, tertutupnya aliran darah, atau kekurangan vitamin neurotropik adalah|Neuritis|Rasa baal|Encephalitis|Meningitis|Epilepsi|Rasa baal",
-
 "Sindrom kematian sel-sel otak secara bersamaan sehingga otak tampak mengecil dan kemampuan daya mengingat berkurang, sering diderita oleh orang yang berusia 65 tahun adalah|Meningitis|Encephalitis|Neuritis|Alzheimer|Epilepsi|Alzheimer",
-
 "Pancreas merupakan organ berbentuk pipih yang terletak di bagian belakang bawah lambung. Pancreas sebagai kelenjar endokrin menghasilkan hormon sebagai berikut, kecuali|Glucagon|Insulin|Somatostatin|Polipeptida pancreas|Adrenalin|Adrenalin",
-
 "Hipofisis terbagi menjadi tiga bagian, yaitu lobus anterior, intermedia dan posterior. Hipofisis lobus anterior menghasilkan hormon-hormon sebagai berikut kecuali|Hormon Insulin|Hormon Gonadotropin|Hormon pertumbuhan/GH atau STH|Hormon perangsang tiroid/TSH|Hormon Adrenocorticotropic/ACTH|Hormon Insulin",
-
 "Penebalan pada lensa mata yang menyebabkan penglihatan menjadi buram dan umumnya terjadi pada orang lanjut usia adalah|Miopia|Hipermetropia|Presbiopia|Katarak|Astigmatisma|Katarak",
-
 "Indra penciuman yang sama sekali tidak dapat mencium bau disebut|Anosmia|Hiposmia|Hiperosmia|Polip|Sinusitis|Anosmia",
-
 "Lidah sebagai indra pengecap memiliki kemoreseptor berupa kuncup pengecap (taste bud). Kuncup pengecap terdapat pada, kecuali|Papila lidah|Palatum molle|Faring|Laring|Epiglotis|Laring",
-
 "Peradangan pada tulang-tulang tengkorak di sekitar hidung yang berongga dan berisi udara disebut|Sinusitis|Polip|Anosmia|Hiposmia|Hiperosmia|Sinusitis",
-
 "Papila lidah berbentuk kerucut, kecil, menutupi bagian dorsum lidah, dan tidak mengandung kuncup pengecap adalah|Papila foliate|Papila filiformis|Papila fungiformis|Papila sirkumvalata|Papila valata|Papila filiformis",
-
 "Labirin membranosa terdiri atas dua kantong, yaitu|Sakulus dan Incus|Sakulus dan Stapes|Sakulus dan Utrikulus|Utrikulus dan Maleus|Incus dan Stapes|Sakulus dan Utrikulus",
-
 "Gangguan indra pendengar berupa tuli saraf yang terjadi akibat kerusakan saraf|CN IV|CN VI|CN VIII|CN X|CN XII|CN VIII",
-
 "Berdasarkan sifat pengaruhnya terhadap sistem koordinasi, NAPZA dibagi menjadi tiga golongan yaitu stimulan, depresan, dan halusinogen. Senyawa di bawah ini yang termasuk golongan depresan adalah|Kafein, Amfetamin, Opiat|Kafein, Alkohol, Kokain|Ganja, Alkohol, Barbiturat|Kokain, Ganja, Alkohol|Barbiturat, Ekstasi, Ganja|Ganja, Alkohol, Barbiturat",
-
 "Berdasarkan sifat pengaruhnya terhadap sistem koordinasi, NAPZA dibagi menjadi tiga golongan yaitu stimulan, depresan, dan halusinogen. Senyawa di bawah ini yang termasuk golongan stimulan adalah|Kafein, Amfetamin, Opiat|Kafein, Alkohol, Kokain|Ganja, Alkohol, Barbiturat|Kokain, Ganja, Alkohol|Barbiturat, Ekstasi, Ganja|Kafein, Alkohol, Kokain",
-
 "Semua nefron terdapat di bagian|Medulla renalis|Korteks renalis|Pelvis renalis|Vesica urinaria|Ureter|Korteks renalis",
-
 "Urine primer yang dihasilkan dari proses filtrasi merupakan|Urine yang masih mengandung zat berguna|Urine yang tidak lagi mengandung glukosa dan protein|Urine yang tidak lagi mengalami proses reabsorpsi|Urine yang disalurkan ke pelvis renalis|Urine sesungguhnya yang dikeluarkan dari tubuh|Urine yang masih mengandung zat berguna",
-
 "Diabetes Insipidus menyebabkan seseorang sering buang air kecil sehingga cenderung mengalami dehidrasi. Penyakit ini disebabkan oleh gangguan hormonal, yaitu|Kekurangan Hormon Anti Diuretik|Kelebihan Hormon Anti Diuretik|Kekurangan Hormon Insulin|Kelebihan Hormon Insulin|Kekurangan Hormon Adrenalin|Kekurangan Hormon Anti Diuretik",
-
 "Penghancuran batu saluran kemih dengan menggunakan gelombang kejut yang ditransmisikan dari luar tubuh adalah|Laparascopi|Laser|Cryo surgery|ESWL|Vesicolithiasistomy|ESWL",
-
 "Fagosit bakteri yang dilakukan di sel hati oleh makrofag sel|Glia|Kupffer|Mast|Intrahepatic|Hepatosit|Kupffer",
-
 "Kelainan/penyakit berupa berubahnya sel-sel hati menjadi jaringan ikat fibrosa sehingga menyebabkan kehilangan fungsinya adalah|Cirrhosis hepatis|Hemokromatosis|Anhidrosis|Bromohidrosis|Hyperhidrosis|Cirrhosis hepatis",
-
 "Gangguan pigmentasi sehingga kulit kehilangan pigmen melanin, tampak bercak-bercak putih yang bisa melebar pada kulit yaitu|Pruritus cutanea|Eksem|Vitiligo|Clavus|Miliaria|Vitiligo",
-
 "Semua nefron terdapat di bagian|Medulla renalis|Korteks renalis|Pelvis renalis|Vesica urinaria|Ureter|Korteks renalis",
-
 "Urine primer yang dihasilkan dari proses filtrasi merupakan|Urine yang masih mengandung zat berguna|Urine yang tidak lagi mengandung glukosa dan protein|Urine yang tidak lagi mengalami proses reabsorpsi|Urine yang disalurkan ke pelvis renalis|Urine sesungguhnya yang dikeluarkan dari tubuh|Urine yang masih mengandung zat berguna",
-
 "Diabetes Insipidus menyebabkan seseorang sering buang air kecil sehingga cenderung mengalami dehidrasi. Penyakit ini disebabkan gangguan hormonal, yaitu|Kekurangan Hormon Anti Diuretik|Kelebihan Hormon Anti Diuretik|Kekurangan Hormon Insulin|Kelebihan Hormon Insulin|Kekurangan Hormon Adrenalin|Kekurangan Hormon Anti Diuretik",
-
 "Penghancuran batu saluran kemih dengan menggunakan gelombang kejut yang ditransmisikan dari luar tubuh adalah|Laparascopi|Laser|Cryo surgery|ESWL|Vesicolithiasistomy|ESWL",
-
 "Fagosit bakteri yang dilakukan di sel hati oleh makrofag sel|Glia|Kupffer|Mast|Intrahepatic|Hepatosit|Kupffer",
-
 "Sel saraf yang berfungsi untuk menghantarkan impuls dari pusat saraf ke efektor (otot atau kelenjar) adalah|Neuron motoris|Neuron sensoris|Neuron konektor|Sinapsis|Ganglion|Neuron motoris",
-
 "Urutan penghantaran impuls saraf pada gerak sadar berturut-turut melalui|reseptor-aferen-otak-eferen-efektor|reseptor-eferen-otak-aferen-efektor|efektor-aferen-sumsum tulang belakang-eferen-reseptor|efektor-eferen-otak-aferen-reseptor|sumsum tulang belakang-aferen-reseptor-eferen-efektor|reseptor-aferen-otak-eferen-efektor",
-
 "Lapisan terluar pelindung otak yang tebal dan kuat, terdiri atas 2 lapisan serta melekat pada permukaan dalam cranium yaitu|Duramater|Piamater|Arachnoid|Pleura|Pericardium|Duramater",
-
 "Pengaturan untuk keseimbangan, kontrol gerakan mata, meningkatkan tonus otot, serta koordinasi gerakan sadar yang berkaitan dengan ketrampilan berpusat di bagian otak|Thalamus|Hypothalamus|Cerebellum|Pons varolli|Medulla oblongata|Cerebellum",
-
 "Fungsi saraf parasimpatis pada organ dibawah ini yang benar adalah, kecuali|Memperbesar pupil|Kontraksi kandung kemih|Merangsang ereksi|Memperlambat detak jantung|Dilatasi diameter arteri|Memperbesar pupil",
-
 "Gangguan koordinasi gerak otot berupa cara berjalan yang kaku dengan gerak salah satu kaki melebar, kurang keseimbangan, tremor pada tangan dan bagian tubuh lainnya disebut|Parkinson|Encephalitis|Meningitis|Ataksia|Hidrocephalus|Parkinson",
-
 "Sindrom kematian sel-sel otak secara bersamaan sehingga otak tampak mengecil dan kemampuan daya ingat berkurang dan sering diderita oleh orang berusia 65 tahun ke atas yaitu|Epilepsi|Meningitis|Alzheimer|Ataksia|Parkinson|Alzheimer",
-
 "Golongan obat yang mempunyai pengaruh terhadap sistem saraf pusat yang mempercepat kerja otak adalah|Kokain|Heroin|Valium|Morphin|Ganja|Kokain",
-
 "Sel saraf yang berfungsi untuk menghantarkan impuls dari pusat saraf ke efektor (otot atau kelenjar) adalah|Neuron motoris|Neuron sensoris|Neuron konektor|Sinapsis|Ganglion|Neuron motoris",
-
 "Urutan penghantaran impuls saraf pada gerak sadar berturut-turut melalui|reseptor-aferen-otak-eferen-efektor|reseptor-eferen-otak-aferen-efektor|efektor-aferen-sumsum tulang belakang-eferen-reseptor|efektor-eferen-otak-aferen-reseptor|sumsum tulang belakang-aferen-reseptor-eferen-efektor|reseptor-aferen-otak-eferen-efektor",
 "Lapisan terluar pelindung otak yang tebal dan kuat, terdiri atas 2 lapisan serta melekat pada permukaan dalam cranium yaitu|Duramater|Piamater|Arachnoid|Pleura|Pericardium|Duramater",
 "Pengaturan untuk keseimbangan, kontrol gerakan mata, meningkatkan tonus otot, serta koordinasi gerakan sadar yang berkaitan dengan ketrampilan berpusat di bagian otak|Thalamus|Hypothalamus|Cerebellum|Pons varolli|Medulla oblongata|Cerebellum",
