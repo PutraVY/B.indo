@@ -33,7 +33,7 @@ const soal = [
 
 "Yang merupakan salah ciri – ciri drama...|Memiliki pendapatan|Ada dialog|Latar tidak jelas|Monoton|Tidak ada ending|Ada dialog"  ,
 
-"Pada umumnya, teks persuasif dalam drama menggunakan kaidah kebahasaan seperti penggunaan kata – kata bermakna ajakan, yaitu...|Ayo, mari, yuk|Ayo, tidak, jangan|Pakailah, hindari, mari|Yuk, ambilah, tidak demikian|Mari, silakan, boleh|Pakailah, hindari, mari"  ,
+"Pada umumnya, teks persuasif dalam drama menggunakan kaidah kebahasaan seperti penggunaan kata – kata bermakna ajakan, yaitu...|Ayo, mari, yuk|Ayo, tidak, jangan|Pakailah, hindari, mari|Yuk, ambilah, tidak demikian|Mari, silakan, boleh|Ayo, mari, yuk"  ,
 
 "Bagian – bagian alur drama yg benar adalah...|Orientasi, komplikasi, resolusi atau denouement|Prolog, dialog, orientasi dan komplikasi|Dialog, monolog, adegan, babak dan komplikasi|Tema, alur, penokohan, amanat dan protagonis|Alur, atar, orientasi, klimaks dan simpulan|Orientasi, komplikasi, resolusi atau denouement"  ,
 
